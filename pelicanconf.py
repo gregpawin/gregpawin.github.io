@@ -4,7 +4,7 @@
 AUTHOR = 'Greg Pawin'
 SITENAME = "Greg's Blog"
 SITEURL = 'https://gregpawin.com'
-
+DEFAULT_CATEGORY = 'Posts'
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
