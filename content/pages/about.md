@@ -7,8 +7,6 @@ Hi, I'm Greg. I used to do experimental surface science research. Nowadays I do 
 
 # My Resume
 
-
-
 # **Skills**
 
 Python, SQL querying, data cleaning, data mining, statistical analysis, Pandas, NumPy, SciPy, machine learning, clustering analysis, GIS, GeoPandas, Git, AWS
