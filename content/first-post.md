@@ -1,6 +1,7 @@
 title: Election Tracker
 date: November 7, 2020
 author: Greg Pawin
+tags: data scraping, git, politics
 
 ![Election](/images/biden-trump.png)
 
