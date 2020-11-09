@@ -9,7 +9,7 @@ PATH = 'content'
 PLUGINS = ['pelican_dynamic']
 TIMEZONE = 'America/Los_Angeles'
 THEME = 'medius'
-
+TYPOGRIFY = True
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
