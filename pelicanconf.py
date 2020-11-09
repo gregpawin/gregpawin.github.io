@@ -6,7 +6,7 @@ SITENAME = "Greg's Blog"
 SITEURL = 'https://gregpawin.com'
 DEFAULT_CATEGORY = 'Posts'
 PATH = 'content'
-
+PLUGINS = ['pelican_dynamic']
 TIMEZONE = 'America/Los_Angeles'
 THEME = 'medius'
 
