@@ -1,4 +1,4 @@
-title: About Me
+title: Home
 date: November 7, 2020
 save_as: index.html
 
