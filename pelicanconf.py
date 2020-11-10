@@ -11,6 +11,7 @@ TIMEZONE = 'America/Los_Angeles'
 THEME = 'medius'
 TYPOGRIFY = True
 DEFAULT_LANG = 'en'
+AUTHOR_SAVE_AS = ''
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
