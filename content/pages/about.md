@@ -1,17 +1,18 @@
 title: About Me
 date: November 7, 2020
+save_as: index.html
 
 ![Me](/images/5E2B0435-D1B7-4437-B2DD-728E446B9BD6.jpg)
 
 Hi, I'm Greg. I bake a little bread, make sausage sometimes, and used to do surface science research. Nowadays I do a bit of programming. 
 
-# My Resume
+# **My Resume**
 
-## **Skills**
+### **Skills**
 
 Python, SQL querying, data cleaning, data mining, statistical analysis, Pandas, NumPy, SciPy, machine learning, clustering analysis, GIS, GeoPandas, Git, AWS
 
-## **Education**
+### **Education**
 
 Springboard Data Science Career Track 2018 – 2019
 
@@ -19,7 +20,7 @@ University of California, Riverside Ph.D. in Chemistry 2005 – 2008
 
 University of California, Riverside B.S. in Chemistry 2000 – 2005
 
-## **Employment**
+### **Employment**
 
 Data Consultant at Pawin Analytics LLC
 
@@ -44,7 +45,7 @@ August 2008 – October 2013
 - Used manual lathe and mill to machine custom sample handling and preparation devices for use in ultra-high vacuum and cryogenic environments
 - Able to optimize Lab-View-based control software to examine atomic-scale structures, which is comprised of multiple feedback loops and a lock-in amplifier
 
-## **Volunteering**
+### **Volunteering**
 
 Board Member at North Valley Caring Services
 
