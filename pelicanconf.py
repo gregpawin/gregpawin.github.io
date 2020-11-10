@@ -11,7 +11,7 @@ TIMEZONE = 'America/Los_Angeles'
 THEME = 'medius'
 TYPOGRIFY = True
 DEFAULT_LANG = 'en'
-AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
 
 
 
