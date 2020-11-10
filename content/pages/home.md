@@ -1,5 +1,6 @@
-title: Home
+title: Greg's Blog
 date: November 7, 2020
+URL: index.html
 save_as: index.html
 
 ![Me](/images/5E2B0435-D1B7-4437-B2DD-728E446B9BD6.jpg)
