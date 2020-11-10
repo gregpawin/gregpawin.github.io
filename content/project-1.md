@@ -1,5 +1,5 @@
 Title: Project 1
-Category: Project
+Category: Projects
 Date: November 10, 2020
 
 Future Project 1.
