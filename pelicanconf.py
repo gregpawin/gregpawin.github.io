@@ -12,6 +12,7 @@ THEME = 'medius'
 TYPOGRIFY = True
 DEFAULT_LANG = 'en'
 AUTHOR_SAVE_AS = ''
+INDEX_SAVE_AS = 'blog_index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
