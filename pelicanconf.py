@@ -3,7 +3,7 @@
 
 AUTHOR = 'Greg Pawin'
 SITENAME = ""
-SITEURL = ''
+SITEURL = 'https://gregpawin.com'
 DEFAULT_CATEGORY = 'Posts'
 PATH = 'content'
 PLUGINS = ['pelican_dynamic']
@@ -12,7 +12,7 @@ THEME = 'medius'
 TYPOGRIFY = True
 DEFAULT_LANG = 'en'
 AUTHORS_SAVE_AS = ''
-
+GITHUB_URL = 'https://github.com/gregpawin'
 
 
 
