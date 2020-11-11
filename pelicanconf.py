@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Greg Pawin'
 SITENAME = ""
 SITEURL = 'https://gregpawin.com'
 DEFAULT_CATEGORY = 'Posts'
