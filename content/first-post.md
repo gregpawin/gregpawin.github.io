@@ -1,5 +1,6 @@
 title: Election Tracker
 date: November 7, 2020
+Tags: python, scraper, election, git
 
 ![Election](/images/biden-trump.png)
 
