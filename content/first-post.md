@@ -2,7 +2,7 @@ title: Election Tracker
 date: November 7, 2020
 Tags: python, scraper, election, git
 
-![Election](/images/biden-trump.png)
+(![Election](/images/biden-trump.png)](https://gregpawin.com/election-tracker.html)
 
 After days of 24/7 speculation, we finally get a result. It was interesting to see the tools people built to publish minute by minute vote tallys.
 
