@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>Project 1</title>
+        <title>Election Tracker</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css" />
@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" />
         <link rel="stylesheet" href="https://gregpawin.com/theme/css/main.css" />
         <link href="https://gregpawin.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Greg's Blog Full Atom Feed" />
+        <link href="https://gregpawin.com/feeds/posts.atom.xml" type="application/atom+xml" rel="alternate" title="Greg's Blog Categories Atom Feed" />
 </head>
 <body>
 
@@ -35,24 +36,45 @@
 
 
 <div class="page-container">
+    <div class="entry-content">
+        <div class="post-meta pure-g">
+            <div class="pure-u-3-4 meta-data">
+                <a href="https://gregpawin.com/category/posts.html" class="category">posts</a><br />
+
+                <a class="author" href="https://gregpawin.com/author/greg-pawin.html">Greg Pawin</a>
+                &mdash; <abbr title="2020-11-07T00:00:00-08:00">Sat 07 November 2020</abbr>
+            </div>
+        </div>
+    </div>
+
     <div class="article-header-container">
         <div class="background-image-container">
 
             <div class="background-image-small">
                 <div class="title-container">
-                    <h1>Project&nbsp;1</h1>
+                    <h1>Election&nbsp;Tracker</h1>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="entry-content">
-        <p>Future Project&nbsp;1.</p>
+        <p><a href="https://gregpawin.com/election-tracker.html"><img alt="Election" src="/images/biden-trump.png"></a></p>
+<p>After days of 24/7 speculation, we finally get a result. It was interesting to see the tools people built to publish minute by minute vote&nbsp;tallys.</p>
+<p>Here&#8217;s a vote scraper created by the NYTimes: <a href="https://github.com/alex/nyt-2020-election-scraper">https://github.com/alex/nyt-2020-election-scraper</a></p>
+<p>If the site is still up past the election, here&#8217;s the table of vote tallys that their scraper powers: <a href="https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html#">https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html#</a></p>
+<p>It&#8217;s based off of a project by Simon Willson: <a href="https://simonwillison.net/2020/Oct/9/git-scraping/">Git scraping: track changes over time by scraping to a Git repository</a>, which uses a Git repo to scrape data to with very little code. Definitely something to keep in mind for future&nbsp;projects.</p>
     </div>
 
     <footer>
+        <div class="tags">
+            <a href="https://gregpawin.com/tag/python.html">python</a>
+            <a href="https://gregpawin.com/tag/scraper.html">scraper</a>
+            <a href="https://gregpawin.com/tag/election.html">election</a>
+            <a href="https://gregpawin.com/tag/git.html">git</a>
+        </div>
         <div class="pure-g post-footer">
-            <div class="pure-u-1">
+            <div class="pure-u-1 pure-u-md-1-2">
                 <div class="pure-g poster-info">
                     <div class="pure-u">
                         <img src="/images/profile.png" alt="">
@@ -68,10 +90,13 @@
                 </div>
             </div>
 
+
+
         </div>
 
 
     </footer>
+
 
 </div>
 
